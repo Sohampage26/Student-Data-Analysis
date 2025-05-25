@@ -27,11 +27,11 @@ The primary goal is to identify patterns in students' daily routines, such as wa
 - **Google Forms** for data collection.
 
 ## How to Use
-1. Read the `DA_Student_Analysis_Report.pdf` for insights and conclusions.
+1. Read the `DA_Report.pdf` for insights and conclusions.
 
 ## Authors
-- **Shriraj Khochage**
-  - Soham Page (Team Member)
+- **Soham Page**
+  - Shriraj Khochage (Team Member)
   - Sakshi Maskar (Team Member)
   - Atharva Mehta (Team Member)
 
